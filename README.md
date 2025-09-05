@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My NMAE IS **UMUTONI JUSTINE**
+
 I am a passionate student and aspiring Data/AI enthusiast
 
 ## 🔹 About Me
