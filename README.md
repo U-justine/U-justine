@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**U-justine/U-justine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate student and aspiring Data/AI enthusiast
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- Always eager to **solve real-world problems** with code.  
+- Love to make **complex concepts simple** and student-friendly.  
+- Curious about **AI, healthcare tech, and smart systems**.  
+- Enjoy working on **hands-on projects** more than just theory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+- **Languages & Tools:** Python, Keras, TensorFlow, Linux, SQL  
+- **AI & ML:** Machine Learning, Deep Learning (CNN, RNN, GAN), Data Analysis, GEN AI, IRNLP  
+- **Soft Skills:** Problem-solving, curiosity-driven learning, simplifying complex ideas  
+
+## 🔹 Connect with Me
+- Email: `umutonijustin1gmail.com`  
+- LinkedIn: [[linkedin.com/in/umutoni-justine)](https://www.linkedin.com/)  
+- GitHub: [github.com/U-justine](https://github.com/)
+
+*"I love turning ideas into experiments and learning something new every day."*  
