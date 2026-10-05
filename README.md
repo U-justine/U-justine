@@ -16,7 +16,8 @@ I am a passionate student and aspiring Data/AI enthusiast
 - **Soft Skills:** Problem-solving, curiosity-driven learning, simplifying complex ideas  
 
 ## 🔹 Connect with Me
-- Email: `umutonijustin1gmail.com`  
+- Email: `umutonijustin1gmail.com`
+- Location: Kigali,RWANDA  
 - LinkedIn: [[linkedin.com/in/umutoni-justine)](https://www.linkedin.com/)  
 - GitHub: [github.com/U-justine](https://github.com/)
 
